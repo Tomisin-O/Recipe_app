@@ -1,7 +1,6 @@
 import React, {useEffect, useState } from 'react';
 import './App.css';
 
-
 function App() {
   const APP_ID = "165be659";
   const APP_KEY = "66153f4a87d0c67abcf2a11be725d17c	";
